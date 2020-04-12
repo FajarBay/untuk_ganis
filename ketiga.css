@@ -148,7 +148,7 @@ body {
     transition: transform 1s;
     transform-origin: left;
     transform: scaleX(1);
-    opacity: 1;
+    opacity: .8;
 }
 
 .box .contentBx .isi {
