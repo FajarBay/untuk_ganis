@@ -26,6 +26,10 @@ body {
     margin-top: 250px;
 }
 
+.spasi {
+    margin-right: 15px;
+}
+
 button {
     position: relative;
     height: 60px;
